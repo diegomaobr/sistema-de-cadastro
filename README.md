@@ -3,5 +3,5 @@ Status do projeto: Em desenvolvimento
 
 Para rodar seu projeto, por favor digite:
 ```
-npm install react
+node app.jds
 ```
